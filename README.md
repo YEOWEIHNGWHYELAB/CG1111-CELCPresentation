@@ -1,3 +1,5 @@
 # CG1111-CELCPresentation
 
-CG1111 Presentation done on smoke detectors.
+CG1111 Presentation done on smoke detectors. Do note that the code written is not the best way to do things, I just wanted a quick way to get the smoke detector working.
+Moreover my smoke detector is not really for detecting smoke, it is more for detection of butane gas or so... Read the data sheet for MQ2 and other MQ detectors...
+Some are better suited for detecting a certain gas than the other...
